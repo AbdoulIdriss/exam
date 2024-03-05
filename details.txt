@@ -1,0 +1,8 @@
+In the Hotel services table 
+I addded the following colums 
+-closing time for services that have a closing time
+-availability for services that are available or not 
+-reasons to precise the reason in case it is not available 
+
+And i created a table for different payment methods to use it as a foreign key in the billing table 
+Because each payment is unique and thus must have it's own id 
